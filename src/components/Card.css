@@ -1,0 +1,36 @@
+
+.card {
+  color: rgba(0, 0, 0, 0.802);
+    background: linear-gradient(#f88000, #f3ea6af1);
+    font-style: oblique;
+    
+    margin-top: 5%;
+    box-shadow: 3px 3px #f88000, -1em 0 0.4em rgb(126, 56, 2);
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.masInfo{
+  font-size: x-large;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+#closeIcon {
+  
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+  
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+
+

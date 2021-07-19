@@ -1,0 +1,17 @@
+.ciudad{
+   /* background: linear-gradient(rgb(255, 124, 37),orange);
+    border-radius: 10px;
+    width: 30%;
+*/
+color: rgba(0, 0, 0, 0.802);
+    background: linear-gradient(#f88000, #f3ea6af1);
+    font-style: oblique;
+    
+    margin-top: 5%;
+    box-shadow: 3px 3px #f88000, -1em 0 0.4em rgb(126, 56, 2);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    width: 20%;
+    height: 60%;
+}

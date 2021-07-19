@@ -1,0 +1,26 @@
+/*
+.cards 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+*/
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: -49px;
+  transition: all 0.5s ease;
+
+
+}
+.deleteButton{
+  border-color: rgb(255, 102, 0);
+  border-radius: 10px;
+  font-style: oblique;
+  color: black!important;
+  background-color: rgb(255, 102, 0);
+  transition: all 0.5s ease;
+  background-color: white;
+
+}

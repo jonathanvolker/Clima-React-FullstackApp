@@ -1,0 +1,54 @@
+
+#nav {
+  font-size: 17px ;
+  font-style: oblique;
+   font-weight: bold;
+    display: flex;
+   text-align: center;
+   text-decoration: none;
+   
+   
+   
+  
+   
+   
+}
+#about{
+  
+  border-left: 50px;
+  width: 130px;
+  text-align:bottom
+
+}
+#help{
+  background-color: orange;
+}
+img#tamaño{
+  width: 50x; height: 50px;
+}
+#Input{
+ background-color:rgb(235, 176, 98) ;
+ border-radius: 10px;
+ border: 1px solid grey ;
+ font-style: oblique;
+ position: relative;
+   left: 700px;
+
+
+}
+#InputButton{
+ border-color: rgb(255, 102, 0);
+ border-radius: 10px;
+ font-style: oblique;
+ color: black!important;
+ background-color: rgb(255, 102, 0);
+ transition: all 0.5s ease;
+ background-color: #f88000;
+ position: relative;
+ left: 710px;
+}
+
+#InputButton:hover {
+ background: rgb(255, 102, 0);
+ color: black !important;
+}

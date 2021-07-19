@@ -1,0 +1,10 @@
+.App {
+ background-color: orange;
+  
+
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
